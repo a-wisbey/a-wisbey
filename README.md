@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-wisbey
 - 👀 I’m interested in switching careers into Tech 👩‍💻
-- 🌱 I’m currently learning how to use Git via the Terminal, brushing up on my HTML and CSS, and Javascript
+- 🌱 I’m currently working my way through The Odin Project
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/abi-wisbey-96606ba5/
 - ⚡ My code might not be bug-free, but I'm on a journey of turning errors into lessons. Excited to see where this coding adventure takes me! 💻✨
 
